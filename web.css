@@ -1,0 +1,63 @@
+body {
+    font-family: arial;
+    background-color: rgb(217, 217, 217);}
+    h1{
+        font-family: Bold Fraktur Font;
+        font-size: 82px;
+        color: rgb(19, 15, 16);
+        text-align: center;
+        
+        margin: 0 auto;
+       
+        
+    }
+    .hading{
+        color: rgb(29, 27, 27);
+        font-family: Copperplate Gothic Light;
+    }
+    .defn{
+        color: rgba(0, 0, 0, 0.934);
+          
+    }
+    body {
+        background-color: rgb(200,200,200);}
+        h1 {
+        background-color: rgb(229, 229, 229);}
+        .sindh a:hover{
+            color: rgb(29, 100, 233);
+            font-size:larger;}
+         .punjab a:hover{
+            color: rgb(29, 100, 233);
+            font-size:larger;
+            
+         }
+         .KYBER_PAKHTUNKHWA a:hover{
+            color: rgb(29, 100, 233);
+            font-size:larger;
+
+         } 
+         .booking_information a:hover{
+            color: rgb(29, 100, 233);
+            font-size:20px;
+            font-weight: bold;
+            background: #1E90FF;
+            width: 160px;
+            padding: 20px;
+            text-align: center;
+            font-family: sans-serif;}
+         
+          .main_hading {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: blue;
+            
+            
+            
+          }        
+        
+
+         
+            
+
+  
+    
+
